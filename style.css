@@ -1,0 +1,32 @@
+.flex{
+    
+    display: flex;
+    height: 620px;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column-reverse;
+    
+    background-color: yellowgreen;
+
+}
+
+.talha{
+height: 100px;
+width: 100px;
+color:bisque;
+background-color:darkcyan;
+}
+
+.talha1{
+    height: 100px;
+    width: 100px;
+    color:bisque;
+    background-color:aquamarine;
+    }
+
+    .talha2{
+        height: 100px;
+        width: 100px;
+        color:bisque;
+        background-color:cadetblue;
+        }
